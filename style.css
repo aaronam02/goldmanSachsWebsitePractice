@@ -1,0 +1,41 @@
+.container {
+    align-content: center;
+ 
+}
+.row{
+    justify-content: center;
+    align-self: center;
+}
+.col{
+    border: 2.5px solid white;
+    margin: 2.5;
+}
+.backgroundGray {
+    justify-content: center;
+    align-self: center;
+  background-color: lightgrey;
+}
+.backgroundWhite {
+    justify-content: center;
+    align-self: center;
+  background-color: white;
+}
+.aboutText { 
+  background-image: url('https://www.goldmansachs.com/our-firm/multimedia/people-img.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.margins{
+    margin-top: 200px;
+}
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+
+.fa {
+    font-size: 60px;
+    padding: 10px;
+    border: none;
+}
